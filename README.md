@@ -2,7 +2,7 @@
 BigComp 2021
 
 Dataset - [HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia](https://www.sciencedirect.com/science/article/pii/S2352340919300939)
-There is an associated paper with the same name for this data set for more information.
+
 
 1. Original data set is in "original_data" folder.
 2. Use "preprocess_data.ipynb" to preprocess the data.
